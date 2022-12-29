@@ -39,7 +39,6 @@ colorama==0.4.3
 commonmark==0.9.1
 conda==4.9.2
 conda-build==3.18.11
-conda-package-handling @ file:///opt/concourse/worker/volumes/live/41a2ba95-d84c-4c06-4d6e-5665866bc5b4/volume/conda-package-handling_1603018173200/work
 conda-verify==3.4.2
 configparser==5.0.0
 contextlib2==0.6.0.post1
