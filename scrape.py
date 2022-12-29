@@ -25,7 +25,7 @@ def get_recent_sales(url, product):
 
     df.append({'title': title, 'price': price, 'date': date})
   
-  df_former.append(pd.DataFrame(df))
+  df_former = df_former.append(pd.DataFrame(df), ignore_index = True)
   df_former.drop_duplicates()
   df_former.to_csv('data/' + product + '.csv')
 
