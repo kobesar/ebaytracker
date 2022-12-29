@@ -6,7 +6,7 @@ def get_recent_sales(url, product):
   df_former = pd.read_csv('data/' + product + '.csv', names=['title', 'price', 'date'], header=None)
 
   resp = re.get(url)
-  soup = BeautifulSoup(resp.text)
+  soup = BeautifulSoup(resp.text, 'html.parser')
   items = soup.find_all('li', {'class': 's-item'})
 
   df = []
