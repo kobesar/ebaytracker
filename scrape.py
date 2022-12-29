@@ -17,7 +17,7 @@ def get_recent_sales(url, product):
     price = None
     date = None
     try:
-      title = item.find('div', {'class': 's-item__title'}).contents[0]
+      title = item.find('div', {'class': 's-item__title'}).contents[0].text
       price = item.find('span', {'class': 's-item__price'}).find('span', recursive=False).contents[0]
       date = item.find('div', {'class': 's-item__title--tagblock'}).find('span', recursive=False).contents[0].replace('Sold ', '')
     except:
