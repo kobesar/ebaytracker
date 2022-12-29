@@ -3,7 +3,7 @@ import pandas as pd
 import requests as re
 
 def get_recent_sales(url, product):
-  df_former = pd.read_csv('data/' + product + '.csv')
+  df_former = pd.read_csv('data/' + product + '.csv', names=['title', 'price', 'date'], header=None)
 
   resp = re.get(url)
   soup = BeautifulSoup(resp.text)
