@@ -1,129 +1,61 @@
-<<<<<<< HEAD
-=======
-,title,price,date
-0,title,price,date
-1,title,price,date
-2,title,price,date
-3,"<span aria-level=""3"" role=""heading"">Shop on eBay</span>",,
-4,"<span aria-level=""3"" role=""heading"">Tamron 24-70 G2 - SP 24-70mm F2.8 Di VC USD G2 Nikon Mount</span>",$521.00," Dec 25, 2022"
-5,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens Nikon</span>",$561.00," Nov 19, 2022"
-6,"<span aria-level=""3"" role=""heading"">TAMRON USD Di SP VC 24-70mm f2.8 NIKON G MOUNT AUTO FOCUS ZOOM LENS</span>",$316.00," Nov 27, 2022"
-7,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm NIKON f/2.8 Di VC USD G2 Lens</span>",$625.00," Nov 28, 2022"
-8,"<span aria-level=""3"" role=""heading"">TAMRON SP 24-70mm f2.8 Di VC USD G2 NIKON MOUNT AUTO FOCUS ZOOM LENS</span>",$599.99," Dec 4, 2022"
-9,"<span aria-level=""3"" role=""heading"">TAMRON Di USD SP 24-70mm f2.8 NIKON G MOUNT AF LENS ** WORKS BUT SOLD AS IS **</span>",$223.49," Nov 20, 2022"
-10,"<span aria-level=""3"" role=""heading"">Tamron Nikon AF-S 24-70mm F2.8G Zoom Lens</span>",$380.00," Oct 9, 2022"
-11,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens for Nikon + UV filter &amp; Tap-In Console</span>",$560.00," Dec 11, 2022"
-12,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Nikon Lens</span>",$637.00," Oct 10, 2022"
-13,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Zoom Lens for Nikon F Mount</span>",$600.00," Oct 9, 2022"
-14,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Zoom Lens for Nikon Mount</span>",$575.00," Nov 23, 2022"
-15,"<span aria-level=""3"" role=""heading"">Tamron SP24 - 70mm F2.8 Di VC USD G2 for NIKON</span>",$460.00," Nov 22, 2022"
-16,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 (A032) Lens for Nikon + Hood + Bag</span>",$580.00," Nov 25, 2022"
-17,"<span aria-level=""3"" role=""heading"">Nikon AF-S Nikkor 24-70mm 1:2.8G ED</span>",$456.00," Nov 13, 2022"
-18,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm F/2.8 G2 Di VC USD G2 Zoom Lens for Nikon Mount</span>",$600.00," Nov 1, 2022"
-19,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Zoom Lens for Nikon Mount Used</span>",$596.00," Oct 20, 2022"
-20,"<span aria-level=""3"" role=""heading"">Nikon AF-S NIKKOR 24-70 1:2.8 G ED</span>",$525.00," Nov 8, 2022"
-21,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens For [Nikon]</span>",$660.00," Oct 29, 2022"
-22,"<span aria-level=""3"" role=""heading"">Tamron A032 SP 24-70mm f/2.8 Di VC USD G2 Lens For Nikon F</span>",$606.99," Nov 21, 2022"
-23,"<span aria-level=""3"" role=""heading"">Tamron SP A007 24-70mm f/2.8 Di VC USD (A007) Autofocus Lens For Nikon </span>",$310.00," Dec 2, 2022"
-24,"<span aria-level=""3"" role=""heading"">Nikon NIKKOR AF-S 24-70mm 1:2.8 G ED</span>",$424.00," Dec 3, 2022"
-25,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens for Nikon-used</span>",$580.00," Nov 16, 2022"
-26,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens for Nikon F mount</span>",$530.00," Dec 4, 2022"
-27,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Lens for Nikon w/ Lens Filter, from US</span>",$625.00," Dec 9, 2022"
-28,"<span aria-level=""3"" role=""heading"">Nikon N AF-S Nikkor 24-70mm 1:2.8G ED Parts/Repair</span>",$275.99," Dec 6, 2022"
-29,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f/2.8 SP Di VC USD G2 Zoom Lens for Nikon Mount</span>",$550.00," Dec 5, 2022"
-30,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Zoom Lens for Nikon F Mount</span>",$609.00," Oct 4, 2022"
-31,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens</span>",$550.00," Dec 28, 2022"
-32,"<span aria-level=""3"" role=""heading"">Nikon Af-s Nikkor 24-70mm 1:2.8g Ed Nano Crystal Coat Lens</span>",$420.00," Oct 18, 2022"
-33,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Zoom Lens for Nikon Mount</span>",$610.00," Nov 6, 2022"
-34,"<span aria-level=""3"" role=""heading"">Nikon Af-s Nikkor 24-70mm F2.8g Ed Nano Crystal Coat Lens</span>",$566.33," Dec 29, 2022"
-35,"<span aria-level=""3"" role=""heading"">Tamron SP A007 24-70mm f/2.8 Di VC USD (A007) Autofocus Lens For Nikon </span>",$315.00," Dec 7, 2022"
-36,"<span aria-level=""3"" role=""heading"">Nikon AF-S NIKKOR 18-70mm 1:3.5-4.5G ED DX Lens</span>",$50.00," Nov 28, 2022"
-37,"<span aria-level=""3"" role=""heading"">New Tamron SP 24-70mm f/2.8 DI VC USD G2 Lens - NIKON F  [Model A032N]</span>",$670.00," Oct 8, 2022"
-38,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens for Nikon. Perfect Condition!</span>",$541.00," Oct 10, 2022"
-39,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f/3.3-5.6 Aspherical lens Nikon AF</span>",$25.00," Oct 16, 2022"
-40,"<span aria-level=""3"" role=""heading"">Nikon AF-S NIKKOR 70-200 1:2.8 G2 ED - Immaculate, Barely used! NO RESERVE!!! A+</span>",$715.00," Dec 25, 2022"
-41,"<span aria-level=""3"" role=""heading"">Tamron SP 24 mm - 70mm f/2.8 Di VC USD G2 for Canon</span>",$479.00," Dec 27, 2022"
-42,"<span aria-level=""3"" role=""heading"">Nikon Af-s Nikkor 24-70mm F2.8g Ed Nano Crystal Coat Lens</span>",$430.00," Dec 24, 2022"
-43,"<span aria-level=""3"" role=""heading"">Tamron SP A007 24-70mm f/2.8 Di VC USD (A007) Autofocus Lens For Nikon. see Info</span>",$251.00," Nov 6, 2022"
-44,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di USD (A007) VC Zoom Lens for Nikon + Hoya HD CIR-PL</span>",$330.00," Dec 4, 2022"
-45,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens for Nikon EF H405</span>",$227.00," Oct 23, 2022"
-46,"<span aria-level=""3"" role=""heading"">Nikon N AF-S Nikkor 24-70mm 1:2.8G ED</span>",$464.78," Dec 16, 2022"
-47,"<span aria-level=""3"" role=""heading"">tamron sp 24-70mm f/2.8 di vc usd nikon - As Is</span>",$200.00," Nov 13, 2022"
-48,"<span aria-level=""3"" role=""heading"">**Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens Display Model Nikon</span>",$610.00," Oct 21, 2022"
-49,"<span aria-level=""3"" role=""heading"">Tamron SP 15-30mm F/2.8 Di VC USD G1 A012N Full Frame Lens for Nikon</span>",$300.00," Dec 8, 2022"
-50,"<span aria-level=""3"" role=""heading"">TAMRON A007N 24-70mm F/2.8 DI VC USD Lens For Nikon Mount</span>",$360.00," Oct 17, 2022"
-51,"<span aria-level=""3"" role=""heading"">Nikon AF-S Nikkor 70-200mm 1:2.8 G II ED VR Lens</span>",$584.87," Dec 26, 2022"
-52,"<span aria-level=""3"" role=""heading"">Nikon N AF-S Nikkor 24-70mm 1:2.8G ED</span>","$2,740.71"," Nov 18, 2022"
-53,"<span aria-level=""3"" role=""heading"">Nikon NIKKOR AF-S 24-70mm F/2.8G ED Lens</span>",$436.50," Dec 25, 2022"
-54,"<span aria-level=""3"" role=""heading"">Nikon Nikkor AF-S 24-70mm f2.8 G ED IF ASPH Lens AFS</span>",$426.00," Dec 24, 2022"
-55,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f2.8 SP Di VC USD G2 Zoom Lens for Canon EF USED</span>",$480.00," Dec 8, 2022"
-56,"<span aria-level=""3"" role=""heading"">Tamron SP A007 24-70mm f/2.8 Di VC USD Lens For Nikon</span>",$260.00," Oct 1, 2022"
-57,"<span aria-level=""3"" role=""heading"">NIKON DX AF-P NIKKOR 70-300MM 1:4.5-6.3G ED never used</span>",$75.00," Dec 26, 2022"
-58,"<span aria-level=""3"" role=""heading"">nikon afs-nikkor 24mm-85mm 1-3.5-4.5 G lens</span>",$31.00," Dec 27, 2022"
-59,"<span aria-level=""3"" role=""heading"">Nikon AF-S Nikkor 24-70mm F2.8G ED Nano SWM Lens w/ Hood</span>",$450.00," Dec 4, 2022"
-60,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm F/2.8 Di VC USD Autofocus Lens For Nikon</span>",$325.00," Dec 19, 2022"
-61,"<span aria-level=""3"" role=""heading"">Nikon NIKKOR 24-120mm  1:4 G EG</span>",$241.00," Dec 27, 2022"
-62,"<span aria-level=""3"" role=""heading"">Nikon Af-s Nikkor 24-70mm F2.8g Ed Nano Crystal Coat Lens</span>",$510.00," Dec 15, 2022"
-63,"<span aria-level=""3"" role=""heading"">Used Tamron 24-70mm F/2.8 SP DI VC USD (A007) AF Lens For Nikon {82} - (UG) EX+</span>",$284.00," Dec 4, 2022"
-64,"<span aria-level=""3"" role=""heading"">Shop on eBay</span>",,
-65,"<span aria-level=""3"" role=""heading"">Tamron 24-70 G2 - SP 24-70mm F2.8 Di VC USD G2 Nikon Mount</span>",$521.00," Dec 25, 2022"
-66,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens Nikon</span>",$561.00," Nov 19, 2022"
-67,"<span aria-level=""3"" role=""heading"">TAMRON USD Di SP VC 24-70mm f2.8 NIKON G MOUNT AUTO FOCUS ZOOM LENS</span>",$316.00," Nov 27, 2022"
-68,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm NIKON f/2.8 Di VC USD G2 Lens</span>",$625.00," Nov 28, 2022"
-69,"<span aria-level=""3"" role=""heading"">TAMRON SP 24-70mm f2.8 Di VC USD G2 NIKON MOUNT AUTO FOCUS ZOOM LENS</span>",$599.99," Dec 4, 2022"
-70,"<span aria-level=""3"" role=""heading"">TAMRON Di USD SP 24-70mm f2.8 NIKON G MOUNT AF LENS ** WORKS BUT SOLD AS IS **</span>",$223.49," Nov 20, 2022"
-71,"<span aria-level=""3"" role=""heading"">Tamron Nikon AF-S 24-70mm F2.8G Zoom Lens</span>",$380.00," Oct 9, 2022"
-72,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens for Nikon + UV filter &amp; Tap-In Console</span>",$560.00," Dec 11, 2022"
-73,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Nikon Lens</span>",$637.00," Oct 10, 2022"
-74,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Zoom Lens for Nikon F Mount</span>",$600.00," Oct 9, 2022"
-75,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Zoom Lens for Nikon Mount</span>",$575.00," Nov 23, 2022"
-76,"<span aria-level=""3"" role=""heading"">Tamron SP24 - 70mm F2.8 Di VC USD G2 for NIKON</span>",$460.00," Nov 22, 2022"
-77,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 (A032) Lens for Nikon + Hood + Bag</span>",$580.00," Nov 25, 2022"
-78,"<span aria-level=""3"" role=""heading"">Nikon AF-S Nikkor 24-70mm 1:2.8G ED</span>",$456.00," Nov 13, 2022"
-79,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm F/2.8 G2 Di VC USD G2 Zoom Lens for Nikon Mount</span>",$600.00," Nov 1, 2022"
-80,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Zoom Lens for Nikon Mount Used</span>",$596.00," Oct 20, 2022"
-81,"<span aria-level=""3"" role=""heading"">Nikon AF-S NIKKOR 24-70 1:2.8 G ED</span>",$525.00," Nov 8, 2022"
-82,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens For [Nikon]</span>",$660.00," Oct 29, 2022"
-83,"<span aria-level=""3"" role=""heading"">Tamron A032 SP 24-70mm f/2.8 Di VC USD G2 Lens For Nikon F</span>",$606.99," Nov 21, 2022"
-84,"<span aria-level=""3"" role=""heading"">Tamron SP A007 24-70mm f/2.8 Di VC USD (A007) Autofocus Lens For Nikon </span>",$310.00," Dec 2, 2022"
-85,"<span aria-level=""3"" role=""heading"">Nikon NIKKOR AF-S 24-70mm 1:2.8 G ED</span>",$424.00," Dec 3, 2022"
-86,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens for Nikon-used</span>",$580.00," Nov 16, 2022"
-87,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens for Nikon F mount</span>",$530.00," Dec 4, 2022"
-88,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Lens for Nikon w/ Lens Filter, from US</span>",$625.00," Dec 9, 2022"
-89,"<span aria-level=""3"" role=""heading"">Nikon N AF-S Nikkor 24-70mm 1:2.8G ED Parts/Repair</span>",$275.99," Dec 6, 2022"
-90,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f/2.8 SP Di VC USD G2 Zoom Lens for Nikon Mount</span>",$550.00," Dec 5, 2022"
-91,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Zoom Lens for Nikon F Mount</span>",$609.00," Oct 4, 2022"
-92,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens</span>",$550.00," Dec 28, 2022"
-93,"<span aria-level=""3"" role=""heading"">Nikon Af-s Nikkor 24-70mm 1:2.8g Ed Nano Crystal Coat Lens</span>",$420.00," Oct 18, 2022"
-94,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Zoom Lens for Nikon Mount</span>",$610.00," Nov 6, 2022"
-95,"<span aria-level=""3"" role=""heading"">Nikon Af-s Nikkor 24-70mm F2.8g Ed Nano Crystal Coat Lens</span>",$566.33," Dec 29, 2022"
-96,"<span aria-level=""3"" role=""heading"">Tamron SP A007 24-70mm f/2.8 Di VC USD (A007) Autofocus Lens For Nikon </span>",$315.00," Dec 7, 2022"
-97,"<span aria-level=""3"" role=""heading"">Nikon AF-S NIKKOR 18-70mm 1:3.5-4.5G ED DX Lens</span>",$50.00," Nov 28, 2022"
-98,"<span aria-level=""3"" role=""heading"">New Tamron SP 24-70mm f/2.8 DI VC USD G2 Lens - NIKON F  [Model A032N]</span>",$670.00," Oct 8, 2022"
-99,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens for Nikon. Perfect Condition!</span>",$541.00," Oct 10, 2022"
-100,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f/3.3-5.6 Aspherical lens Nikon AF</span>",$25.00," Oct 16, 2022"
-101,"<span aria-level=""3"" role=""heading"">Nikon AF-S NIKKOR 70-200 1:2.8 G2 ED - Immaculate, Barely used! NO RESERVE!!! A+</span>",$715.00," Dec 25, 2022"
-102,"<span aria-level=""3"" role=""heading"">Tamron SP 24 mm - 70mm f/2.8 Di VC USD G2 for Canon</span>",$479.00," Dec 27, 2022"
-103,"<span aria-level=""3"" role=""heading"">Nikon Af-s Nikkor 24-70mm F2.8g Ed Nano Crystal Coat Lens</span>",$430.00," Dec 24, 2022"
-104,"<span aria-level=""3"" role=""heading"">Tamron SP A007 24-70mm f/2.8 Di VC USD (A007) Autofocus Lens For Nikon. see Info</span>",$251.00," Nov 6, 2022"
-105,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di USD (A007) VC Zoom Lens for Nikon + Hoya HD CIR-PL</span>",$330.00," Dec 4, 2022"
-106,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens for Nikon EF H405</span>",$227.00," Oct 23, 2022"
-107,"<span aria-level=""3"" role=""heading"">Nikon N AF-S Nikkor 24-70mm 1:2.8G ED</span>",$464.78," Dec 16, 2022"
-108,"<span aria-level=""3"" role=""heading"">tamron sp 24-70mm f/2.8 di vc usd nikon - As Is</span>",$200.00," Nov 13, 2022"
-109,"<span aria-level=""3"" role=""heading"">**Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens Display Model Nikon</span>",$610.00," Oct 21, 2022"
-110,"<span aria-level=""3"" role=""heading"">Tamron SP 15-30mm F/2.8 Di VC USD G1 A012N Full Frame Lens for Nikon</span>",$300.00," Dec 8, 2022"
-111,"<span aria-level=""3"" role=""heading"">TAMRON A007N 24-70mm F/2.8 DI VC USD Lens For Nikon Mount</span>",$360.00," Oct 17, 2022"
-112,"<span aria-level=""3"" role=""heading"">Nikon AF-S Nikkor 70-200mm 1:2.8 G II ED VR Lens</span>",$584.87," Dec 26, 2022"
-113,"<span aria-level=""3"" role=""heading"">Nikon N AF-S Nikkor 24-70mm 1:2.8G ED</span>","$2,740.71"," Nov 18, 2022"
-114,"<span aria-level=""3"" role=""heading"">Nikon NIKKOR AF-S 24-70mm F/2.8G ED Lens</span>",$436.50," Dec 25, 2022"
-115,"<span aria-level=""3"" role=""heading"">Nikon Nikkor AF-S 24-70mm f2.8 G ED IF ASPH Lens AFS</span>",$426.00," Dec 24, 2022"
-116,"<span aria-level=""3"" role=""heading"">Tamron 24-70mm f2.8 SP Di VC USD G2 Zoom Lens for Canon EF USED</span>",$480.00," Dec 8, 2022"
-117,"<span aria-level=""3"" role=""heading"">Tamron SP A007 24-70mm f/2.8 Di VC USD Lens For Nikon</span>",$260.00," Oct 1, 2022"
-118,"<span aria-level=""3"" role=""heading"">NIKON DX AF-P NIKKOR 70-300MM 1:4.5-6.3G ED never used</span>",$75.00," Dec 26, 2022"
-119,"<span aria-level=""3"" role=""heading"">nikon afs-nikkor 24mm-85mm 1-3.5-4.5 G lens</span>",$31.00," Dec 27, 2022"
-120,"<span aria-level=""3"" role=""heading"">Nikon AF-S Nikkor 24-70mm F2.8G ED Nano SWM Lens w/ Hood</span>",$450.00," Dec 4, 2022"
-121,"<span aria-level=""3"" role=""heading"">Tamron SP 24-70mm F/2.8 Di VC USD Autofocus Lens For Nikon</span>",$325.00," Dec 19, 2022"
-122,"<span aria-level=""3"" role=""heading"">Nikon NIKKOR 24-120mm  1:4 G EG</span>",$241.00," Dec 27, 2022"
-123,"<span aria-level=""3"" role=""heading"">Nikon Af-s Nikkor 24-70mm F2.8g Ed Nano Crystal Coat Lens</span>",$510.00," Dec 15, 2022"
-124,"<span aria-level=""3"" role=""heading"">Used Tamron 24-70mm F/2.8 SP DI VC USD (A007) AF Lens For Nikon {82} - (UG) EX+</span>",$284.00," Dec 4, 2022"
->>>>>>> c4ded73a18ddca0c0f69ad1d2b1767d7ec0f6ade
+,date,price,title,product
+0," Dec 25, 2022",$521.00,Tamron 24-70 G2 - SP 24-70mm F2.8 Di VC USD G2 Nikon Mount,tamron2470
+1," Nov 19, 2022",$561.00,Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens Nikon,tamron2470
+2," Nov 28, 2022",$625.00,Tamron SP 24-70mm NIKON f/2.8 Di VC USD G2 Lens,tamron2470
+3," Nov 27, 2022",$316.00,TAMRON USD Di SP VC 24-70mm f2.8 NIKON G MOUNT AUTO FOCUS ZOOM LENS,tamron2470
+4," Dec 4, 2022",$599.99,TAMRON SP 24-70mm f2.8 Di VC USD G2 NIKON MOUNT AUTO FOCUS ZOOM LENS,tamron2470
+5," Nov 20, 2022",$223.49,TAMRON Di USD SP 24-70mm f2.8 NIKON G MOUNT AF LENS ** WORKS BUT SOLD AS IS **,tamron2470
+6," Oct 9, 2022",$380.00,Tamron Nikon AF-S 24-70mm F2.8G Zoom Lens,tamron2470
+7," Oct 10, 2022",$637.00,Tamron SP 24-70mm f/2.8 Di VC USD G2 Nikon Lens,tamron2470
+8," Dec 11, 2022",$560.00,Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens for Nikon + UV filter & Tap-In Console,tamron2470
+9," Nov 23, 2022",$575.00,Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Zoom Lens for Nikon Mount,tamron2470
+10," Nov 22, 2022",$460.00,Tamron SP24 - 70mm F2.8 Di VC USD G2 for NIKON,tamron2470
+11," Oct 9, 2022",$600.00,Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Zoom Lens for Nikon F Mount,tamron2470
+12," Nov 13, 2022",$456.00,Nikon AF-S Nikkor 24-70mm 1:2.8G ED,tamron2470
+13," Nov 25, 2022",$580.00,Tamron SP 24-70mm f/2.8 Di VC USD G2 (A032) Lens for Nikon + Hood + Bag,tamron2470
+14," Oct 29, 2022",$660.00,Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens For [Nikon],tamron2470
+15," Nov 1, 2022",$600.00,Tamron 24-70mm F/2.8 G2 Di VC USD G2 Zoom Lens for Nikon Mount,tamron2470
+16," Nov 16, 2022",$580.00,Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens for Nikon-used,tamron2470
+17," Nov 8, 2022",$525.00,Nikon AF-S NIKKOR 24-70 1:2.8 G ED,tamron2470
+18," Nov 21, 2022",$606.99,Tamron A032 SP 24-70mm f/2.8 Di VC USD G2 Lens For Nikon F,tamron2470
+19," Oct 20, 2022",$596.00,Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Zoom Lens for Nikon Mount Used,tamron2470
+20," Dec 2, 2022",$310.00,Tamron SP A007 24-70mm f/2.8 Di VC USD (A007) Autofocus Lens For Nikon ,tamron2470
+21," Dec 3, 2022",$424.00,Nikon NIKKOR AF-S 24-70mm 1:2.8 G ED,tamron2470
+22," Dec 9, 2022",$625.00,"Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Lens for Nikon w/ Lens Filter, from US",tamron2470
+23," Dec 4, 2022",$530.00,Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens for Nikon F mount,tamron2470
+24," Dec 5, 2022",$550.00,Tamron 24-70mm f/2.8 SP Di VC USD G2 Zoom Lens for Nikon Mount,tamron2470
+25," Dec 30, 2022",$249.00,Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens - AF not working,tamron2470
+26," Oct 4, 2022",$609.00,Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Zoom Lens for Nikon F Mount,tamron2470
+27," Oct 18, 2022",$420.00,Nikon Af-s Nikkor 24-70mm 1:2.8g Ed Nano Crystal Coat Lens,tamron2470
+28," Dec 6, 2022",$275.99,Nikon N AF-S Nikkor 24-70mm 1:2.8G ED Parts/Repair,tamron2470
+29," Dec 7, 2022",$315.00,Tamron SP A007 24-70mm f/2.8 Di VC USD (A007) Autofocus Lens For Nikon ,tamron2470
+30," Dec 29, 2022",$566.33,Nikon Af-s Nikkor 24-70mm F2.8g Ed Nano Crystal Coat Lens,tamron2470
+31," Oct 10, 2022",$541.00,Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens for Nikon. Perfect Condition!,tamron2470
+32," Oct 16, 2022",$25.00,Tamron 24-70mm f/3.3-5.6 Aspherical lens Nikon AF,tamron2470
+33," Dec 28, 2022",$550.00,Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens,tamron2470
+34," Oct 8, 2022",$670.00,New Tamron SP 24-70mm f/2.8 DI VC USD G2 Lens - NIKON F  [Model A032N],tamron2470
+35," Nov 28, 2022",$50.00,Nikon AF-S NIKKOR 18-70mm 1:3.5-4.5G ED DX Lens,tamron2470
+36," Dec 27, 2022",$479.00,Tamron SP 24 mm - 70mm f/2.8 Di VC USD G2 for Canon,tamron2470
+37," Nov 6, 2022",$610.00,Tamron 24-70mm f/2.8 SP G2 Di VC USD G2 Zoom Lens for Nikon Mount,tamron2470
+38," Dec 25, 2022",$715.00,"Nikon AF-S NIKKOR 70-200 1:2.8 G2 ED - Immaculate, Barely used! NO RESERVE!!! A+",tamron2470
+39," Dec 4, 2022",$330.00,Tamron SP 24-70mm f/2.8 Di USD (A007) VC Zoom Lens for Nikon + Hoya HD CIR-PL,tamron2470
+40," Dec 16, 2022",$466.57,Nikon N AF-S Nikkor 24-70mm 1:2.8G ED,tamron2470
+41," Nov 6, 2022",$251.00,Tamron SP A007 24-70mm f/2.8 Di VC USD (A007) Autofocus Lens For Nikon. see Info,tamron2470
+42," Oct 21, 2022",$610.00,**Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens Display Model Nikon,tamron2470
+43," Nov 13, 2022",$200.00,tamron sp 24-70mm f/2.8 di vc usd nikon - As Is,tamron2470
+44," Oct 23, 2022",$227.00,Tamron SP 24-70mm f/2.8 Di VC USD G2 Lens for Nikon EF H405,tamron2470
+45," Dec 8, 2022",$300.00,Tamron SP 15-30mm F/2.8 Di VC USD G1 A012N Full Frame Lens for Nikon,tamron2470
+46," Oct 17, 2022",$360.00,TAMRON A007N 24-70mm F/2.8 DI VC USD Lens For Nikon Mount,tamron2470
+47," Nov 18, 2022","$2,751.25",Nikon N AF-S Nikkor 24-70mm 1:2.8G ED,tamron2470
+48," Dec 26, 2022",$75.00,NIKON DX AF-P NIKKOR 70-300MM 1:4.5-6.3G ED never used,tamron2470
+49," Dec 25, 2022",$436.50,Nikon NIKKOR AF-S 24-70mm F/2.8G ED Lens,tamron2470
+50," Dec 26, 2022",$584.87,Nikon AF-S Nikkor 70-200mm 1:2.8 G II ED VR Lens,tamron2470
+51," Dec 24, 2022",$430.00,Nikon Af-s Nikkor 24-70mm F2.8g Ed Nano Crystal Coat Lens,tamron2470
+52," Dec 19, 2022",$325.00,Tamron SP 24-70mm F/2.8 Di VC USD Autofocus Lens For Nikon,tamron2470
+53," Dec 24, 2022",$426.00,Nikon Nikkor AF-S 24-70mm f2.8 G ED IF ASPH Lens AFS,tamron2470
+54," Dec 4, 2022",$284.00,Used Tamron 24-70mm F/2.8 SP DI VC USD (A007) AF Lens For Nikon {82} - (UG) EX+,tamron2470
+55," Dec 8, 2022",$480.00,Tamron 24-70mm f2.8 SP Di VC USD G2 Zoom Lens for Canon EF USED,tamron2470
+56," Nov 25, 2022",$220.00,Tamron SP 24-70mm F/2.8 DI A007 Lens Nikon AF - AS IS,tamron2470
+57," Oct 11, 2022",$520.00,Nikon Nikkor 24-70mm 24-70 f/2.8G AF-S ED + Hoya Pro1 UV Filter.,tamron2470
+58," Dec 4, 2022",$450.00,Nikon AF-S Nikkor 24-70mm F2.8G ED Nano SWM Lens w/ Hood,tamron2470
+59," Nov 27, 2022",$400.00,Nikon Nikkor 24-70mm f/2.8G ED Lens,tamron2470
