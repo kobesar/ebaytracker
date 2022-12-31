@@ -34,3 +34,14 @@ get_recent_sales('https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m57
 get_recent_sales('https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=nikon+d7200&_sacat=0&LH_TitleDesc=0&_odkw=Nikkor+10-24mm+f%2F3.5-4.5G+ED&_osacat=0&LH_Complete=1&LH_Sold=1', 'd7200')
 
 get_recent_sales('https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=tamron+24-70+nikon+g1&_sacat=0&LH_TitleDesc=0&_odkw=nikon+d7200&_osacat=0&LH_Complete=1&LH_Sold=1', 'tamron2470')
+
+d7200 = pd.read_csv('data/d7200.csv')
+nikkor1024 = pd.read_csv('data/nikkor1024.csv')
+tamron2470 = pd.read_csv('data/tamron2470.csv')
+
+d7200['product'] = 'd7200'
+nikkor1024['product'] = 'nikkor1024'
+tamron2470['product'] = 'tamron2470'
+
+full_dat = pd.concat([d7200, nikkor1024, tamron2470], ignore_index=True)
+full_dat.to_csv('data/full_data.csv')
