@@ -28,14 +28,14 @@ def get_recent_sales(url, product):
       print('error')
     if price is not None:
       df.append({'date': date, 'price': price,  'title': title})
+  print(pd.DataFrame(df))
   
-  df_former = df_former.append(pd.DataFrame(df), ignore_index = True)
-  df_former.drop_duplicates()
+  df_former = pd.concat([df_former, pd.DataFrame(df)], ignore_index = True).tail(-1)
+  df_former = df_former.drop_duplicates()
+  df_former.to_csv('data/' + product + '.csv')
   temp = df_former
   temp['product'] = product
   full_df = full_df.append(temp)
-  print(full_df)
-  df_former.to_csv('data/' + product + '.csv')
 
 get_recent_sales('https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=Nikkor+10-24mm+f%2F3.5-4.5G+ED&_sacat=0&LH_TitleDesc=0&_odkw=Nikon+AF-S+DX+Zoom-Nikkor+10-24mm+f%2F3.5-4.5G+ED&_osacat=0&LH_Complete=1&LH_Sold=1', 'nikkor1024')
 
